@@ -4,6 +4,10 @@
 **onikhasanalok/onikhasanalok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+-->
+
+
 # Thank you for visit my github portfolio profile. 
 
 ## About Me
@@ -66,10 +70,3 @@ A1QA (Remote)
 - [LinkedIn](https://www.linkedin.com/in/onik-hasan/)
 - [GitHub](https://github.com/onikhasanalok)
 - **Email**: onikhasanalok123@gmail.com
-
-<!---
-onikhasanalok123/onikhasanalok123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
--->
