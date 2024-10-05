@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Thank you for visit my github portfolio profile. 
+# Thank you for visit my github profile. 
 
 ## About Me
 
