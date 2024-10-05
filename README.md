@@ -68,5 +68,4 @@ A1QA (Remote)
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/onik-hasan/)
-- [GitHub](https://github.com/onikhasanalok)
 - **Email**: onikhasanalok123@gmail.com
